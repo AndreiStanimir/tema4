@@ -10,7 +10,7 @@ def hello():
     '''
     Scrieti aici numele voastre
     '''
-    return "CRC API de la echipa XYXYYXY!"
+    return "CRC API de la echipa drop-table-team_names!"
 
 
 def calculeaza_CRC(polinom, date):
